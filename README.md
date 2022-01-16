@@ -1,6 +1,6 @@
 # OUINT Guillaume
 
-SysAdmin, NetAdmin, Developpeur, DevOps, CloudOPS, Cloud Architect
+SysAdmin, NetAdmin, Developer, DevOps, CloudOps, Cloud Architect
 
 Web3/Blockchain technology amateur (mainly Ethereum/Polygon/Solana)
 
